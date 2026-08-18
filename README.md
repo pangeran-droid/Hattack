@@ -67,8 +67,8 @@ Examples: requests=1000 | concurrency=100
 ### Setup
 
 ```bash
-git clone https://github.com/pangeran-droid/Hattack.git
-cd Hattack
+git clone https://github.com/pangeran-droid/hattack.git
+cd hattack
 pip install aiohttp
 chmod +x tester.py
 ./tester.py
